@@ -5,6 +5,6 @@ Note storage for different subjects I'm learning
 
 <summary markdown="span">Vim</summary>
 
-test text [help](../vim/index.md)
+test text [help](./vim/index.md)
 
 </details>
