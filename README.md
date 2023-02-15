@@ -1,7 +1,7 @@
 # Help-Notes
 Note storage for different subjects I'm learning Vim
 
-<details>
+<!---<details>
 <summary markdown="span">Vim</summary>
 [VIm](./Vim/index.md)
 </details>
@@ -9,7 +9,7 @@ Note storage for different subjects I'm learning Vim
 <details>
 <summary markdown="span">PowerShell</summary>
 [PowerShell](./PowerShell/index.md)
-</details>
+</details>--->
 
 <!---<details>
 <summary markdown="span">Git</summary>
