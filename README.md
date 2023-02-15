@@ -17,10 +17,10 @@ test text [help](./Vim/index.md)
 
 </details>
 
-<!---<details>
+<details>
 
 <summary markdown="span"> Git </summary>
 
 [Link](./git/index.md)
 
-</details> --->
+</details>
