@@ -9,7 +9,7 @@ test text [help](./Vim/index.md)
 
 </details>
 
-<details>
+<!---<details>
 
 <summary markdown="span">PowerShell</summary>
 
@@ -23,4 +23,4 @@ test text [help](./Vim/index.md)
 
 [Link](./git/index.md)
 
-</details>
+</details> --->
