@@ -8,3 +8,19 @@ Note storage for different subjects I'm learning
 test text [help](./Vim/index.md)
 
 </details>
+
+<details>
+
+<summary markdown="span">PowerShell</summary>
+
+[Link](./PowerShell/index.md)
+
+</details>
+
+<details>
+
+<summary markdown="span"> ** Git ** </summary>
+
+[Link](./git/index.md)
+
+</details>
