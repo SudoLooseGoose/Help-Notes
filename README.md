@@ -12,6 +12,6 @@ Note storage for different subjects I'm learning Vim
 </details>
 
 <details>
-<summary markdown="span">Git<summary>
+<summary markdown="span">Git</summary>
 [Git](git/index.md)
 </details>
