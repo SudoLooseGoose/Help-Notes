@@ -1,15 +1,15 @@
 # Help-Notes
 Note storage for different subjects I'm learning 
 
-<details>
+<!---<details>
 
 <summary markdown="span">Vim</summary>
 
 test text [help](./Vim/index.md)
 
-</details>
+</details> --->
 
-<<details>
+<details>
 
 <summary markdown="span">PowerShell</summary>
 
@@ -17,12 +17,10 @@ test text [help](./Vim/index.md)
 
 </details>
 
-<details>
+<!---<details>
 
 <summary markdown="span"> Git </summary>
 
 [Link](./git/index.md)
 
-</details>
-
-|:---:|:---:|:---:|
+</details> --->
