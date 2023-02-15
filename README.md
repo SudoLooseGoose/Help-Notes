@@ -7,9 +7,9 @@ Note storage for different subjects I'm learning
 
 test text [help](./Vim/index.md)
 
-|
-
 </details>
+
+|
 
 <details>
 
@@ -17,7 +17,9 @@ test text [help](./Vim/index.md)
 
 [Link](./PowerShell/index.md)
 
-<!--</details>
+</details>
+
+|
 
 <details>
 
@@ -25,4 +27,4 @@ test text [help](./Vim/index.md)
 
 [Link](./git/index.md)
 
-</details> --->
+</details>
