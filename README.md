@@ -19,7 +19,7 @@ test text [help](./Vim/index.md)
 
 <details>
 
-<summary markdown="span"> ** Git ** </summary>
+<summary markdown="span"> Git </summary>
 
 [Link](./git/index.md)
 
