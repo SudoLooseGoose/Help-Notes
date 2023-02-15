@@ -11,7 +11,14 @@ Note storage for different subjects I'm learning Vim
 [PowerShell](./PowerShell/index.md)
 </details>
 
-<details>
+<!---<details>
 <summary markdown="span">Git</summary>
 [Git](./git/index.md)
+</details>--->
+
+[Git](./git/index.md)
+
+<details>
+<summary markdown="span">PowerShell</summary>
+[PowerShell](./PowerShell/index.md)
 </details>
