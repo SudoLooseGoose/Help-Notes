@@ -2,5 +2,5 @@
 
 # **Git** help
 
-[link](./install/basic-config.md)
+[link](./install/install-setup.md)
 

@@ -1,24 +1,4 @@
 # Help-Notes
 Note storage for different subjects I'm learning Vim
 
-<!---<details>
-<summary markdown="span">Vim</summary>
-[VIm](./Vim/index.md)
-</details>
-
-<details>
-<summary markdown="span">PowerShell</summary>
-[PowerShell](./PowerShell/index.md)
-</details>--->
-
-<!---<details>
-<summary markdown="span">Git</summary>
-[Git](./git/index.md)
-</details>--->
-
-[Git](./git/index.md)
-
-<details>
-<summary markdown="span">PowerShell</summary>
-[PowerShell](./PowerShell/index.md)
-</details>
+[VIm](./Vim/index.md) | [PowerShell](./PowerShell/index.md) | [Git](./git/index.md) | [PowerShell](./PowerShell/index.md) | [Markdown](./Markdown/index.md) | [CSS](./css/index.md)
