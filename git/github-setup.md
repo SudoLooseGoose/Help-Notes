@@ -1,11 +1,9 @@
-<!--
-
+---
 Title: Basic configuration to get started with Git  
 Author: Uriel Campa-Cruz  
 Date: 2/14/23  
 Comment: These are the steps I took to Git up and going as I follow The Odin Project , since I am using Windows I did use the official Git website for the installation steps.  
-
---->
+---
 
 # This is to help install `Git` and get it configure with `GitHub`
 
@@ -65,8 +63,9 @@ git config --global user.email "123456789+odin@users.norply.git.com
 
 ```
 
-Replace place holder names within the quotation marks but keep the quotation marks. Next change the name on the default branch `master` for new repositories to `main`.
-This is the name GitHub uses and the name we have to use to be able to use GitHib. You'll be able to use this command to make the change 
+### [[GitHub main branch name change]]
+
+Replace place holder names within the quotation marks but keep the quotation marks. Next change the name on the default branch `master` for new repositories to `main`. This is the name GitHub uses and the name we have to use to be able to use GitHib. You'll be able to use this command to make the change 
 
 ```Git
 
