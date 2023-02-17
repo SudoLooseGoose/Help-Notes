@@ -2,5 +2,5 @@
 
 # **Git** help
 
-[link](github-setup.md)
-
+[GitHub Setup](github-setup.md) [GitHub Basics](Github-Basics.md)
+ 
