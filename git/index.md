@@ -2,5 +2,5 @@
 
 # **Git** help
 
-[link](./install/install-setup.md)
+[link](github-setup.md)
 
